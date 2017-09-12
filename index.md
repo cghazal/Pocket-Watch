@@ -7,7 +7,7 @@ PocketWatch automatically creates a schedule for you every day presented in a cl
 apps that you choose for it to sift through, such as Messages, Email, and Notes. Select the contacts who you keep up with everyday to 
 include on the display, as well as any keywords that will help notify you of different appointments.
 
-## We strip down your schedule so that you can exapnd it
+## We strip down your schedule so that you can expand it
 Add notes and to-do lists to the outline that PocketWatch has already drawn for you; add customized timers and specify contacts to call or text for different events.
 
 ## Broaden your arsenal
