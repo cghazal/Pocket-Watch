@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# PocketWatch: your life, streamlined.
 
-You can use the [editor on GitHub](https://github.com/cghazal/Pocket-Watch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Getting tired of multi-tasking your apps? We were too. Discover a way to effortlessly combine all of your appointments that you've made through all of your apps without scrolling through a swamp of text messages and emails for hours. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Your day laid out on one page
+PocketWatch automatically creates a schedule for you every day presented in a clear layout. The appointments that it picks are based on 
+apps that you choose for it to sift through, such as Messages, Email, and Notes. Select the contacts who you keep up with everyday to 
+include on the display, as well as any keywords that will help notify you of different appointments.
 
-### Markdown
+## We strip down your schedule so that you can exapnd it
+Add notes and to-do lists to the outline that PocketWatch has already drawn for you; add customized timers and specify contacts to call or text for different events.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cghazal/Pocket-Watch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Broaden your arsenal
+We offer different subscriptions for additional tools on the app. Create folders for notes in business meetings, take pictures of doodles, and add more data to your app. 
