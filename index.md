@@ -1,4 +1,4 @@
-# PocketWatch: your life, streamlined.
+# PocketWatch: your life, Streamlined
 
 Getting tired of multi-tasking your apps? We were too. Discover a way to effortlessly combine all of your appointments that you've made through all of your apps without scrolling through a swamp of text messages and emails for hours. 
 
